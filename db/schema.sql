@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS nerd_blog;
+
+CREATE DATABASE nerd_blog;
