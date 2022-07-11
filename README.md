@@ -3,7 +3,7 @@
 
 ## Description
 
-This Full Stack Blog allows developers to read, post, and manage their posts revolving around the 
+This Nerd Blog allows developers to read, post, and manage their posts revolving around the 
 world of technology. Users are able to create accounts with secure passwords allowing them to edit 
 and delete their posts.
 
